@@ -1,0 +1,55 @@
+# Loki: God of Stories btop theme
+# Multiversal Emerald & Asgardian Gold temporal palette
+
+theme[main_bg]="#060b08"
+theme[main_fg]="#ecfdf5"
+theme[title]="#ecfdf5"
+theme[hi_fg]="#10b981"
+theme[selected_bg]="#13221a"
+theme[selected_fg]="#eab308"
+theme[inactive_fg]="#4d6b57"
+theme[graph_text]="#a7bfae"
+theme[meter_bg]="#0d1712"
+theme[proc_misc]="#2dd4bf"
+
+# Box outlines: emerald, gold, cyan, violet
+theme[cpu_box]="#10b981"
+theme[mem_box]="#eab308"
+theme[net_box]="#2dd4bf"
+theme[proc_box]="#34d399"
+theme[div_line]="#13221a"
+
+# Temperature: Living Emerald -> Asgardian Gold -> Temporal Red
+theme[temp_start]="#34d399"
+theme[temp_mid]="#eab308"
+theme[temp_end]="#f43f5e"
+
+# CPU graph: Sacred Cyan -> Living Emerald -> Asgardian Gold
+theme[cpu_start]="#2dd4bf"
+theme[cpu_mid]="#10b981"
+theme[cpu_end]="#eab308"
+
+# Memory & disk meters
+theme[free_start]="#10b981"
+theme[free_mid]="#34d399"
+theme[free_end]="#2dd4bf"
+
+theme[cached_start]="#2dd4bf"
+theme[cached_mid]="#10b981"
+theme[cached_end]="#eab308"
+
+theme[available_start]="#eab308"
+theme[available_mid]="#f59e0b"
+theme[available_end]="#f43f5e"
+
+theme[used_start]="#34d399"
+theme[used_mid]="#10b981"
+theme[used_end]="#eab308"
+
+theme[download_start]="#2dd4bf"
+theme[download_mid]="#10b981"
+theme[download_end]="#34d399"
+
+theme[upload_start]="#eab308"
+theme[upload_mid]="#f59e0b"
+theme[upload_end]="#f43f5e"

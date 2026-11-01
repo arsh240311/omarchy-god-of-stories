@@ -1,0 +1,31 @@
+/* Loki: God of Stories Walker Spotlight Launcher */
+#window {
+    background: transparent;
+}
+
+#box {
+    background: rgba(6, 11, 8, 0.94);
+    border: 2px solid #13221a;
+    border-radius: 12px;
+    box-shadow: 0 8px 28px rgba(3, 6, 4, 0.75);
+}
+
+#input {
+    background: #0d1712;
+    color: #ecfdf5;
+    border: 1px solid #10b981;
+    border-radius: 8px;
+    padding: 8px 12px;
+}
+
+#item {
+    color: #a7bfae;
+    border-radius: 6px;
+    padding: 6px 10px;
+}
+
+#item:selected {
+    background: #13221a;
+    color: #eab308;
+    border-left: 3px solid #10b981;
+}

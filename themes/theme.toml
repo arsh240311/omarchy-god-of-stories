@@ -1,0 +1,40 @@
+# Omarchy God of Stories Palette & Theme Definition
+# Inspired by Loki Season 2 finale: The God of Stories & The Multiversal Tree (Yggdrasil)
+
+[meta]
+name = "God of Stories"
+author = "arsh240311"
+variant = "dark"
+
+[colors]
+# Core Canvas & Temporal Void
+bg_primary    = "#060b08"   # Deep End-of-Time temporal void
+bg_secondary  = "#0d1712"   # Muted timeline slate for inactive windows
+bg_floating   = "#13221a"   # Elevated floating popups & menus
+
+# Typography & Multiversal Mist
+fg_primary    = "#ecfdf5"   # Crisp ethereal timeline white
+fg_secondary  = "#a7bfae"   # Muted branch foliage grey
+fg_dim        = "#4d6b57"   # Comments and subtle cosmic details
+
+# Accents (Extracted from the Master Artwork)
+accent_emerald = "#10b981"  # Living timeline strand green
+accent_glow    = "#34d399"  # Multiverse branch pulse
+accent_gold    = "#eab308"  # Asgardian horn crown gold
+accent_amber   = "#f59e0b"  # Temporal loom spark
+accent_cyan    = "#2dd4bf"  # Sacred timeline flux
+accent_violet  = "#a855f7"  # Void beyond the citadel
+
+[hyprland]
+border_active   = "rgba(10b981ee) rgba(eab308ee) 45deg"
+border_inactive = "rgba(0d1712aa)"
+border_width    = 2
+gaps_in         = 4
+gaps_out        = 8
+rounding        = 8
+
+[bar]
+position = "top"
+background = "#060b08e6"
+accent = "#10b981"
+text = "#ecfdf5"

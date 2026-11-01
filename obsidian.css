@@ -1,0 +1,15 @@
+/* Loki: God of Stories Obsidian Theme Accent */
+.theme-dark {
+  --background-primary: #060b08;
+  --background-primary-alt: #030604;
+  --background-secondary: #0d1712;
+  --background-secondary-alt: #13221a;
+  --background-modifier-border: #13221a;
+  --text-normal: #ecfdf5;
+  --text-muted: #a7bfae;
+  --text-faint: #4d6b57;
+  --interactive-accent: #10b981;
+  --interactive-accent-hover: #34d399;
+  --text-accent: #10b981;
+  --text-highlight-bg: rgba(16, 185, 129, 0.25);
+}

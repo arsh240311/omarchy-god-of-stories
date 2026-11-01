@@ -1,0 +1,29 @@
+/* Loki: God of Stories GTK Base */
+@define-color accent_color #10b981;
+@define-color accent_bg_color #10b981;
+@define-color accent_fg_color #060b08;
+
+@define-color window_bg_color #060b08;
+@define-color window_fg_color #ecfdf5;
+
+@define-color view_bg_color #060b08;
+@define-color view_fg_color #ecfdf5;
+
+@define-color headerbar_bg_color #0d1712;
+@define-color headerbar_fg_color #ecfdf5;
+@define-color headerbar_border_color #13221a;
+
+@define-color card_bg_color #0d1712;
+@define-color card_fg_color #ecfdf5;
+@define-color card_border_color #13221a;
+
+@define-color popover_bg_color #13221a;
+@define-color popover_fg_color #ecfdf5;
+
+@define-color shade_color rgba(0, 0, 0, 0.4);
+@define-color scrollbar_outline_color rgba(0, 0, 0, 0.5);
+
+window {
+    background-color: @window_bg_color;
+    color: @window_fg_color;
+}

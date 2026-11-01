@@ -1,0 +1,10 @@
+# Loki: God of Stories CAVA theme
+[color]
+gradient = 1
+gradient_count = 6
+gradient_color_1 = '#06b6d4'
+gradient_color_2 = '#2dd4bf'
+gradient_color_3 = '#10b981'
+gradient_color_4 = '#34d399'
+gradient_color_5 = '#eab308'
+gradient_color_6 = '#f59e0b'
